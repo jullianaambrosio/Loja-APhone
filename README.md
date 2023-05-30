@@ -1,1 +1,2 @@
 # Loja-APhone
+Criando ideias
